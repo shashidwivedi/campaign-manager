@@ -1,0 +1,12 @@
+[
+    { "id": 1, "title": "Campaign 1", "image": "https://picsum.photos/id/199/536/354" },
+    { "id": 2, "title": "Campaign 2", "image": "https://picsum.photos/id/960/536/354" },
+    { "id": 3, "title": "Campaign 3", "image": "https://picsum.photos/id/961/536/354" },
+    { "id": 4, "title": "Campaign 4", "image": "https://picsum.photos/id/962/536/354" },
+    { "id": 5, "title": "Campaign 5", "image": "https://picsum.photos/id/963/536/354" },
+    { "id": 6, "title": "Campaign 6", "image": "https://picsum.photos/id/964/536/354" },
+    { "id": 7, "title": "Campaign 7", "image": "https://picsum.photos/id/965/536/354" },
+    { "id": 8, "title": "Campaign 8", "image": "https://picsum.photos/id/966/536/354" },
+    { "id": 9, "title": "Campaign 9", "image": "https://picsum.photos/id/967/536/354" },
+    { "id": 10, "title": "Campaign 10", "image": "https://picsum.photos/id/967/536/354" }
+]
