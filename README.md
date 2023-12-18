@@ -1,5 +1,6 @@
 # campaign-manager
 
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -28,5 +29,6 @@
   </script>
 </body>
 </html>
+```
 
 **Create a file and open it in browser using the above html for the demo.**
