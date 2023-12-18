@@ -1,4 +1,4 @@
-# campaign-manager
+# Campaign Manager
 
 ```html
 <!DOCTYPE html>
