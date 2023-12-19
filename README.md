@@ -31,4 +31,4 @@
 </html>
 ```
 
-**Create a file and open it in browser using the above html for the demo.**
+**For the demo, create an html file, copy the above html into it and open in the browser.**
